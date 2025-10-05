@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DEON HOTEL - Accra, Ghana</title>
+  style.css
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>DEON HOTEL</h1>
+      <p>Classic Comfort in the Heart of Accra</p>
+      #bookingBook Now</a>
+    </div>
+  </header>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Deon Hotel is ideally located on Kaajaano Street at the Labadi District of Accra, Ghana, within 15 minutes drive from Kotoka International Airport and a 10-minute drive of Ghana's most popular Labadi Beach. The hotel is very accessible to major business centres, government offices, entertainment venues, convention centres, specialty shops, Accra Art Centre and the popular Makola Market.</p>
+    </div>
+  </section>
+
+  <section id="rooms" class="section">
+    <div class="container">
+      <h2>Rooms & Suites</h2>
+      <h3>Standard Rooms (18)</h3>
+      <ul>
+        <li>Air-conditioned</li>
+        <li>Free Wi-Fi</li>
+        <li>Flat-screen TV with DSTV</li>
+        <li>Mini fridge</li>
+        <li>Balcony</li>
+        <li>Bathtub with water heater</li>
+      </ul>
+      <h3>Executive Suites (2)</h3>
+      <ul>
+        <li>All Standard Room features</li>
+        <li>Microwave</li>
+        <li>Large fridge</li>
+        <li>Two satellite TVs</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="amenities" class="section">
+    <div class="container">
+      <h2>Amenities</h2>
+      <ul>
+        <li>Rooftop Bar</li>
+        <li>Parking</li>
+        <li>Room Service</li>
+        <li>Complimentary Breakfast</li>
+        <li>Laundry Service</li>
+        <li>Bottled Water in All Rooms</li>
+        <li>Daily Housekeeping</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="booking" class="section">
+    <div class="container">
+      <h2>Booking & Reservations</h2>
+      <p>Online booking channel will be integrated soon. For now, please call us at <strong>+233-312298008</strong> to reserve your stay.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>📍 No 1 Kaajaano Street, South, Accra, Greater Accra, Ghana</p>
+      <p>📞 +233-312298008</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 DEON HOTEL. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
